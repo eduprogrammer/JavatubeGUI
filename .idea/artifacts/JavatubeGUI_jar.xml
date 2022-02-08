@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavatubeGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavatubeGUI_jar</output-path>
+    <root id="archive" name="JavatubeGUI.jar">
+      <element id="module-output" name="JavatubeGUI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaTube/out/artifacts/JavaTube_jar/JavaTube.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
