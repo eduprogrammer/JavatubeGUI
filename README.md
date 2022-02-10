@@ -1,6 +1,10 @@
 # JavaTube (GUI)
 
+## (Desktop)
 <img src="javatube_screenshot.png">
+
+## (Android)
+<img src="android/screen_01.png">
 
 ## English
 
@@ -10,6 +14,7 @@ Youtube Links. To run the Application, just execute the
 Raspberry PI machine. It is so easy, just past the link 
 in the program, choose the desired format (mp3 or mp4) and 
 click on the Download button.
+For Android: See android "directory" to get the apk.
 
 ## Portuguese
 
@@ -19,6 +24,7 @@ Youtube. Para executar a aplicação, apenas execute o arquivo
 Raspberry PI. É tão fácil, apenas copie o link no programa, 
 escolha o formato desejado (mp3 ou mp4) e clique no botão 
 Download.
+Para Android: Veja o diretório "android" para baixar o apk.
 
 ## Copyright 2022. Eduardo Programador
 
